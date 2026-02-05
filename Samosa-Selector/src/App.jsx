@@ -36,7 +36,7 @@ const App = () => {
         <h2>Multiplier: {multiplier}</h2>
         <img 
           className="samosa" 
-          src="https://www.pngarts.com/files/3/Samosa-PNG-Image-Background.png"
+          src="/samosa.jpg"
           onClick={updateCount}
         />
       </div>

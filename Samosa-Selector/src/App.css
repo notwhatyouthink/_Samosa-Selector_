@@ -78,3 +78,20 @@ button {
 button:hover {
   background-color: #2a2a2a;
 }
+
+.samosa {
+  height: 15em;
+  padding: 1.5em;
+  margin: 0 auto;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.1s;
+}
+
+.samosa:hover {
+  transform: scale(1.1);
+}
+
+.samosa:active {
+  transform: scale(0.95);
+}
