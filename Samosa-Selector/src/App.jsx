@@ -32,6 +32,7 @@ const App = () => {
     <div className="App">
       <div className="header">
         <h1>Samosa Selector</h1>
+        <p style={{fontSize: '0.9em', opacity: 0.7}}>Created by Sharnica Jeudy Z23582376</p>
         <h2>Count: {count}</h2>
         <h2>Multiplier: {multiplier}</h2>
         <img 
