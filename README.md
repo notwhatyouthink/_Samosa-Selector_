@@ -1,7 +1,7 @@
 
 # Web Development Lab 2 - *Samosa Selector*
 
-Submitted by: **Sharnica Jeudy**
+Submitted by: **Sharnica Jeudy Z23582376**
 
 This web app: **An interactive incremental clicker game built with React where users click a samosa to accumulate points and purchase upgrades that multiply their earnings per click. The game features three purchasable upgrades that unlock at different point thresholds, demonstrating React state management, event handling, and dynamic UI updates. Includes visual pulse effects and responsive click interactions for an engaging gaming experience.**
 
